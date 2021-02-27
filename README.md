@@ -14,4 +14,4 @@
 2. N Tech Servise (네이버 계열사, 국세청 아님) UI개발 인턴
 
 ## 신규 블로그 작성중
-[미완](http://im3-fe.github.io/)
+[미완](http://dororodoroddo.github.io/)
