@@ -14,6 +14,7 @@
 2. N Tech Servise (네이버 계열사, 국세청 아님) UI개발 인턴. 2021.01.11 ~ 2021.02.28
 3. 현대카드 SPA 2021.03 ~   (재직중)
 
-## 개인 프로젝트
+<!-- ## 개인 프로젝트
 네이버 웹툰앱 클론코딩 [#](https://github.com/dororodoroddo/neverWebToonClone)
 [체험하기(모바일 화면으로 봐주세요, 미완)](https://dororodoroddo.github.io/dist/)
+ -->
