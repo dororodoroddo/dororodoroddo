@@ -15,4 +15,4 @@
 3. 현대카드 SPA 2021.03 ~   (재직중)
 
 ## 개인 프로젝트
-미완 [#](https://dororodoroddo.github.io/)
+미완 [#](https://dororodoroddo.github.io/)(pc 크롬만 가능)
