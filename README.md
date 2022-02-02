@@ -15,7 +15,7 @@
 3. 현대카드 SPA 2021.03 ~   (재직중)
 
 ## 개인 프로젝트
-웹 3d 공부 [#](https://dororodoroddo.github.io/)(pc만 가능)
+웹 3d 공부 [#](https://dororodoroddo.github.io/list)(pc만 가능)
 
 3d 환경을 쉽고 효율적으로 구축하는 다양한 기술(webGl 등)이 존재하지만 
 3d를 제대로 구축하기 위해서는 3d환경을 인지할줄 알아야한다고 생각하여 css를 조작하여 공간을 표현한 프로젝트입니다.
