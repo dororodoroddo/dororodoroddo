@@ -19,6 +19,11 @@
 2. N Tech Servise (네이버 계열사, 국세청 아님) UI개발 인턴. 2021.01.11 ~ 2021.02.28
 3. 현대카드 SPA 2021.03 ~   (재직중)
 
+## 기타 자격
+1. PCCP Javascript Lv. 4
+2. HSAT LV. 3
+
+
 ## 개인 프로젝트
 1. 웹 3d 공부1 [#](https://dororodoroddo.github.io/list)(pc만 가능)
 * 3d 환경을 쉽고 효율적으로 구축하는 다양한 기술(webGl 등)이 존재하지만 
