@@ -1,6 +1,6 @@
 # 프론트엔드 개발자
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdororodoroddo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-* 비전공자지만 CS를 이해를 중점으로한 공부를 하여 단순한 암기 내용은 떨어지지만 원리를 알고 실제에 적용하는 것은 평균 이상입니다.
+* 비전공자지만 CS를 이해를 중점으로한 공부를 하여 단순한 암기 내용은 떨어지지만 원리를 알고 실제에 적용하는 것은 자신있고 잘모르는 전공 출신 개발자에게도 오히려 가르쳐주기도 합니다.
 * 프론트엔드 개발자였다가 현재는 같은 회사, 같은 제품의 서버 개발을 담당하고 있습니다.
 
 ## 수상 이력
@@ -20,7 +20,7 @@
 ## 교육 / 경력
 1. 삼성 청년 소프트웨어 아카데미(SSAFY, 싸피) 3기. 2020.01 ~ 2020.12
 2. N Tech Servise (네이버 계열사, 국세청 아님) UI개발 인턴. 2021.01.11 ~ 2021.02.28
-3. 현대카드 SPA 2021.03 ~ 2024.05,   (재직중)
+3. 현대카드 - 현대카드앱 개발, 프론트엔드 = 2021.03 ~ 2024.05, 백엔드 = 2024.05 ~ (재직중)
 
 ## 개인 프로젝트 (abandoned)
 1. 웹 3d 공부1 [#](https://dororodoroddo.github.io/list)(pc만 가능)
