@@ -1,7 +1,7 @@
-# 프론트엔드 개발자
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdororodoroddo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-* 비전공자지만 CS를 이해를 중점으로한 공부를 하여 단순한 암기 내용은 떨어지지만 원리를 알고 실제에 적용하는 것은 자신있고 잘모르는 전공 출신 개발자에게도 오히려 가르쳐주기도 합니다.
-* 프론트엔드 개발자였다가 현재는 같은 회사, 같은 제품의 서버 개발을 담당하고 있습니다.
+# 개발자
+* 현대카드 메인앱 프론트엔드 3년
+* 현대카드 메인앱 백엔드
+* 현재는 온디바이스 LLM 안드로이드 앱 개인 개발중
 
 ## 수상 이력
 1. 제33회 제어로봇시스템학회 국내 학술대회 학부생 논문상 (1저자, 지도교수님/박사님 외 단독)
@@ -21,6 +21,12 @@
 1. 삼성 청년 소프트웨어 아카데미(SSAFY, 싸피) 3기. 2020.01 ~ 2020.12
 2. N Tech Servise (네이버 계열사, 국세청 아님) UI개발 인턴. 2021.01.11 ~ 2021.02.28
 3. 현대카드 - 현대카드앱 개발, 프론트엔드 = 2021.03 ~ 2024.05, 백엔드 = 2024.05 ~ (재직중)
+
+## 앱 개발중
+1. 타로 알파카 [[ko](https://play.google.com/store/apps/details?id=com.dororogames.tarotalpacako) / [en](https://play.google.com/store/apps/details?id=com.dororogames.tarotalpaca) ]
+    - 영어버전이 더 성능 좋음 (tinyllama)
+    - 한국어는 hyperclovaX seed 1.5b
+2. 온디바이스 기반 감정 표시 챗봇 (개발중)
 
 ## 개인 프로젝트 (abandoned)
 1. 웹 3d 공부1 [#](https://dororodoroddo.github.io/list)(pc만 가능)
