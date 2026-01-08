@@ -20,7 +20,8 @@
 ## 교육 / 경력
 1. 삼성 청년 소프트웨어 아카데미(SSAFY, 싸피) 3기. 2020.01 ~ 2020.12
 2. N Tech Servise (네이버 계열사, 국세청 아님) UI개발 인턴. 2021.01.11 ~ 2021.02.28
-3. 현대카드 - 현대카드앱 개발, 프론트엔드 = 2021.03 ~ 2024.05, 백엔드 = 2024.05 ~ (재직중)
+3. 현대카드 - 현대카드앱 개발, 프론트엔드 = 2021.03 ~ 2024.05, 백엔드 = 2024.05 ~ 2025.05
+4. 피카부랩스 개발자
 
 ## 앱 개발중
 1. 타로 알파카 [[ko](https://play.google.com/store/apps/details?id=com.dororogames.tarotalpacako) / [en](https://play.google.com/store/apps/details?id=com.dororogames.tarotalpaca) ]
